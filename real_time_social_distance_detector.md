@@ -4,6 +4,8 @@ Our goal is to build a social distance detector which is fast and accurate enoug
 
 # Introduction
 
+[Check out the Colab Notebook](https://colab.research.google.com/drive/1FbXD9kMwmTE3UW56H41QlWMiNQtZ6Irp?usp=sharing)
+
 In any pandemic where the disease spreads through physical contact, social distancing has always been the most efficient method to counteract the disease. So, in recent times where Covid-19 has devastated the lives of many people, we need to maintain social distance among people. A majority of industries are demanding a tool to determine the extent to which people are following this safety protocol.
 
 To serve this purpose, there are three main points :
@@ -25,10 +27,6 @@ The following will be discussed :
 *  Visualization
 *  Inference
 *  Conclusion
-
-### Resources
-
-[Colab Notebook](https://colab.research.google.com/drive/1FbXD9kMwmTE3UW56H41QlWMiNQtZ6Irp?usp=sharing)
 
 # TensorFlow Lite and MobileDet
 
