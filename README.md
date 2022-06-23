@@ -1,6 +1,6 @@
 # W&B Reports
 
-All my W-B report/resources will be dropped here.
+All my W&B report/resources will be dropped here.
 
 ### Published Reports: 
 
